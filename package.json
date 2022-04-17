@@ -1,0 +1,52 @@
+{
+    "name":"theme-teams",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "categories":["Themes"],
+    "version":"1.0.0",
+    "publisher":"vscode",
+    "license":"MIT",
+    
+    "engines":
+    {
+        "vscode":"*"
+    },
+    
+    "contributes":
+    {
+        "themes":
+        [
+            {
+                "id":"Teams (Dark)",
+                "label":"%TeamsDark%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/Dark/teams-theme-dark.json"
+            },
+            {
+                "id":"Teams (Light)",
+                "label":"%TeamsLight%",
+                "uiTheme":"vs",
+                "path":"./themes/Light/teams-theme-light.json"
+            },
+
+            {
+                "id":"Teams (Dark Atom Core)",
+                "label":"%TeamsDarkAtom%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/DarkAtom/teams-theme-darkatom.json"
+            },
+            {
+                "id":"Teams (Light Atom Core)",
+                "label":"%TeamsLightAtom%",
+                "uiTheme":"vs",
+                "path":"./themes/LightAtom/teams-theme-lightatom.json"
+            }
+        ]
+    },
+    
+    "repository":
+    {
+        "type":"git",
+        "url":"https://github.com/microsoft/vscode.git"
+    }
+}

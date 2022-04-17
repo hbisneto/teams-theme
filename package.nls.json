@@ -1,0 +1,10 @@
+{
+    "displayName":"Teams Theme",
+    "description":"Microsoft Teams Theme for Visual Studio Code",
+
+    "TeamsDark":"Teams Theme (Dark)",
+    "TeamsLight":"Teams Theme (Light)",
+
+    "TeamsDarkAtom": "Teams Theme (Dark Atom Core)",
+    "TeamsLightAtom": "Teams Theme (Light Atom Core)"
+}
