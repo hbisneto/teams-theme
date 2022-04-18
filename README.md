@@ -15,3 +15,6 @@ Orange = #F58220
 <br>Dark = #141414
 <br>SoftDark = # 1F1F1F
 <br>Selector = #242424
+
+
+[imagem] --> https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/teams-theme/banner.png
