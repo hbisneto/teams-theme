@@ -1,4 +1,8 @@
-# Color Scheme
+## Teams Theme
+
+Teams theme brings Microsoft Teams to Visual Studio Code.
+
+# Color Scheme (Update Color Scheme)
 
 Orange = #F58220
 Blue = #0066B3
@@ -11,9 +15,3 @@ Black = #000
 Dark = #141414
 SoftDark = # 1F1F1F
 Selector = #242424
-
-"workbench.colorCustomizations":{
-		"activityBar.background": "#FF0000",
-		"ActivityBar.foreground": "#00FF00",
-		"ActivityBarBadge.foreground": "#454990"
-	},
