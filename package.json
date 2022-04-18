@@ -4,7 +4,8 @@
     "description":"%description%",
     "categories":["Themes"],
     "version":"1.0.0",
-    "publisher":"vscode",
+    "publisher":"BisnetoInc",
+    "icon": "assets/icon.png",
     "license":"MIT",
     
     "engines":
@@ -47,6 +48,6 @@
     "repository":
     {
         "type":"git",
-        "url":"https://github.com/microsoft/vscode.git"
+        "url":"https://github.com/hbisneto/teams-theme.git"
     }
 }
