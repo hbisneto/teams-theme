@@ -5,13 +5,13 @@ Teams theme brings Microsoft Teams to Visual Studio Code.
 ## Color Scheme (Update Color Scheme)
 
 Orange = #F58220
-Blue = #0066B3
-Green = #71BF44
-Purple = #812990
-
-Teams = #454990
-TeamsSoft = #7c84ec
-Black = #000
-Dark = #141414
-SoftDark = # 1F1F1F
-Selector = #242424
+<br>Blue = #0066B3
+<br>Green = #71BF44
+<br>Purple = #812990
+<br>
+<br>Teams = #454990
+<br>TeamsSoft = #7c84ec
+<br>Black = #000
+<br>Dark = #141414
+<br>SoftDark = # 1F1F1F
+<br>Selector = #242424
