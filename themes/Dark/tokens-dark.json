@@ -5,10 +5,13 @@
 
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#7c84ec",
+		"activityBar.inactiveForeground": "#9d9d9d",
 		"activityBar.activeBackground": "#000",
+		"activityBar.activeBorder": "#7c84ec",
 		"activityBar.activeFocusBorder": "#7c84ec",
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
+
 		
 		"tab.inactiveBackground": "#141414",
 		"tab.activeBackground": "#000",
