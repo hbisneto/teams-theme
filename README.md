@@ -17,15 +17,16 @@ Send your feedback about the themes. Any issue can be reported and opened direct
 
 ## Color Scheme
 
-Orange = #F58220
-<br>Blue = #0066B3
-<br>Green = #71BF44
-<br>Purple = #812990
-<br>
-<br>Teams = #454990
+Teams = #454990
 <br>TeamsSoft = #7c84ec
-<br>Black = #000
+<br>Black = #000000
 <br>Dark = #141414
 <br>SoftDark = # 1F1F1F
 <br>Selector = #242424
+
+#
+
+## Update History
+
+- Chages in **ActivityBar** colors
 
