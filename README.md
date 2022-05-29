@@ -28,8 +28,14 @@ Teams = #454990
 
 ## Update History
 
-> Version 1.0.1:
->> - Chages in **ActivityBar** colors
-<br>
-> Version 1.0.2:
->> - Changed **Tabs** color when is active or inactive for all themes in the package
+> **Version 1.0.1:**
+> > **Novidades:**
+> > - Chages in **ActivityBar** colors
+
+#
+
+> **Version 1.0.2:**
+> > **Novidades:**
+> > - Changed **Tabs** color when is active or inactive for all themes in the package
+
+#
