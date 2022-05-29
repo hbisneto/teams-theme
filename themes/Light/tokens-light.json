@@ -13,10 +13,10 @@
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
 
-		"tab.activeBackground": "#7c84ec",
+		"tab.activeBackground": "#454990",
 		"tab.activeForeground": "#FFF",
-		"tab.inactiveBackground": "#454990",
-		"tab.inactiveForeground": "#CCC",
+		"tab.inactiveBackground": "#ebebeb",
+		"tab.inactiveForeground": "#000",
 
 		"tab.lastPinnedBorder": "#454990",
 		"sideBar.background": "#e3e3e3",
@@ -42,7 +42,7 @@
 		"editorLineNumber.activeForeground": "#7c84ec",
 		
 		"editorWidget.background": "#FFF", // #EBEBEB -- Alertas/Avisos da janela (Fundo)
-		"editorWidget.foreground": "#000", //696969 -- Alertas e avisos da janela (fonte)
+		"editorWidget.foreground": "#000", // #696969 -- Alertas e avisos da janela (fonte)
 		"editorHoverWidget.background": "#FFF",
 		"editorHoverWidget.foreground": "#696969", // Cor de textos (quando o mouse está em cima)
 		"editor.lineHighlightBackground": "#e0e0e0", //
@@ -57,12 +57,12 @@
 		"editorLink.activeForeground": "#0000FF",
 		"peekViewTitle.background": "#7c84ec",
 		"peekView.border": "#7c84ec",
-		"peekViewResult.lineForeground": "#696969", // 696969
+		"peekViewResult.lineForeground": "#696969", // #696969
 		"peekViewResult.fileForeground": "#000",
 		"peekViewResult.matchHighlightBackground": "#ADD6FF80",
 		"peekViewResult.selectionBackground": "#7c84ec",
-		"peekViewResult.background": "#DDD", // ececec
-		"peekViewEditor.background": "#FFF", // EBEBEB
+		"peekViewResult.background": "#DDD", // #ececec
+		"peekViewEditor.background": "#FFF", // #EBEBEB
 
 		"editorIndentGuide.background":"#7c84ec",
 		"editorIndentGuide.activeBackground":"#92c353",

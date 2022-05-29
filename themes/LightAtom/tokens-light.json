@@ -13,10 +13,10 @@
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
 
-		"tab.activeBackground": "#7c84ec",
+		"tab.activeBackground": "#454990",
 		"tab.activeForeground": "#FFF",
-		"tab.inactiveBackground": "#454990",
-		"tab.inactiveForeground": "#CCC",
+		"tab.inactiveBackground": "#ebebeb",
+		"tab.inactiveForeground": "#000",
 
 		"tab.lastPinnedBorder": "#454990",
 		"sideBar.background": "#e3e3e3",

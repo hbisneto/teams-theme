@@ -12,8 +12,8 @@
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
 		
-		"tab.inactiveBackground": "#141414",
-		"tab.activeBackground": "#000",
+		"tab.inactiveBackground": "#000",
+		"tab.activeBackground": "#1F1F1F",
 		"tab.lastPinnedBorder": "#454990",
 		"sideBar.background": "#141414",
 		"statusBar.background": "#454990",
