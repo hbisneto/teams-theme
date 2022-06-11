@@ -7,14 +7,13 @@
 		"activityBar.foreground": "#454990",
 		"activityBar.activeBackground": "#F5F5F5",
 		"activityBar.activeFocusBorder": "#7c84ec",
-		"activityBar.inactiveForeground": "#707070",
+		"activityBar.inactiveForeground": "#696969",
 		"activityBar.activeBorder": "#454990",
-		
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
 
-		"tab.activeBackground": "#454990",
-		"tab.activeForeground": "#FFF",
+		"tab.activeBackground": "#FFF", // 454990
+		"tab.activeForeground": "#000", // FFF
 		"tab.inactiveBackground": "#ebebeb",
 		"tab.inactiveForeground": "#000",
 
@@ -28,14 +27,14 @@
 		"editorGroupHeader.tabsBackground": "#ebebeb", // Tab Header Background
 		"titleBar.activeBackground": "#454990",
 		"titleBar.inactiveBackground": "#454990",
-		"selection.background": "#ADD6FF80",
+		"selection.background": "#ADD6FF40",
 		
 		"editor.background": "#FFF", // #e0e0e0
 		"editorGroup.border": "#f0f0f0",
 		"editorCursor.foreground": "#000",
 		"editor.foreground": "#000",
 		"editorWhitespace.foreground": "#454990",
-		"editor.selectionBackground": "#ADD6FF80",
+		"editor.selectionBackground": "#ADD6FF80", //40
 		"minimap.selectionHighlight": "#7c84ec",
 
 		"editorLineNumber.foreground": "#696969",
@@ -45,7 +44,8 @@
 		"editorWidget.foreground": "#000", // #696969 -- Alertas e avisos da janela (fonte)
 		"editorHoverWidget.background": "#FFF",
 		"editorHoverWidget.foreground": "#696969", // Cor de textos (quando o mouse está em cima)
-		"editor.lineHighlightBackground": "#e0e0e0", //
+		"editor.lineHighlightBackground": "#FFF", //
+		"editor.lineHighlightBorder": "#e0e0e0",
 
 		"editorSuggestWidget.background": "#ebebeb", // Cor de fundo do código sugerido
 		"editorSuggestWidget.border": "#7c84ec",
