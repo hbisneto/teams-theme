@@ -5,13 +5,15 @@
 
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#7c84ec",
+		"activityBar.inactiveForeground": "#9d9d9d",
 		"activityBar.activeBackground": "#000",
+		"activityBar.activeBorder": "#7c84ec",
 		"activityBar.activeFocusBorder": "#7c84ec",
 		"activityBarBadge.foreground": "#FFF",
 		"activityBarBadge.background": "#7c84ec",
 		
-		"tab.inactiveBackground": "#141414",
-		"tab.activeBackground": "#000",
+		"tab.inactiveBackground": "#000",
+		"tab.activeBackground": "#1F1F1F",
 		"tab.lastPinnedBorder": "#454990",
 		"sideBar.background": "#141414",
 		"statusBar.background": "#454990",
@@ -21,14 +23,14 @@
 		"editorGroupHeader.tabsBackground": "#000", // #454990
 		"titleBar.activeBackground": "#454990",
 		"titleBar.inactiveBackground": "#454990",
-		"selection.background": "#ADD6FF80",
+		"selection.background": "#ADD6FF20", //#ADD6FF80
 		
 		"editor.background": "#1F1F1F",
 		"editorGroup.border": "#000",
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.foreground": "#FFFFFF",
 		"editorWhitespace.foreground": "#C4C4C4",
-		"editor.selectionBackground": "#ADD6FF80",
+		"editor.selectionBackground": "#ADD6FF20", //80
 		"minimap.selectionHighlight": "#454990",
 		"editorLineNumber.foreground": "#C4C4C4",
 		"editorLineNumber.activeForeground": "#454990",
@@ -37,7 +39,8 @@
 		"editorHoverWidget.background": "#454545", // #454990 #1F1F1F
 		"editorSuggestWidget.background": "#000",
 		"editorSuggestWidget.border": "#000",
-		"editor.lineHighlightBackground": "#3D3D3D",
+		"editor.lineHighlightBackground": "#1F1F1F", // 3D3D3D
+		"editor.lineHighlightBorder": "#FFFFFF80",
 		
 		"editor.hoverHighlightBackground": "#656565", // #454545
 		"editor.selectionHighlightBackground": "#656565", // #454545
