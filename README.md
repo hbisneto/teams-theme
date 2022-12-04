@@ -20,16 +20,28 @@ Send your feedback about the themes. Any issue can be reported and opened direct
 ### Update History
 
 > **Version 1.0.1:**
-> > **Novidades:**
+> > **News:**
 > ><br> - Chages in **ActivityBar** colors
 
 #
 
 > **Version 1.0.2:**
-> > **Novidades:**
+> > **News:**
 > ><br>  - Changed **Tabs** color when is active or inactive for all themes in the package
 > ><br> - Changed line highlight when text is selected in the editor
 > ><br> - Soft change in **ActivityBar** when menu is not selected
-> ><br> Changes applied in all themes inside this package (Light and Dark)
+> ><br> - Changes applied in all themes inside this package (Light and Dark)
 
 #
+
+> **Version 1.0.3:**
+> > **News: (Light/Dark Theme)**
+> ><br> - Chages in **"editor.selectionBackground"**
+> ><br> - Chages in **"editorHoverWidget.background"**
+> ><br> - Chages in **"editorLink.activeForeground"**
+> ><br> - Chages in **"editor.hoverHighlightBackground"**
+> ><br> - Chages in **"editor.selectionHighlightBackground"**
+
+#
+
+Copyright © 2022 Heitor Bisneto. All rights reserved.

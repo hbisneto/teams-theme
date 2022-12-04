@@ -34,7 +34,7 @@
 		"editorCursor.foreground": "#000",
 		"editor.foreground": "#000",
 		"editorWhitespace.foreground": "#454990",
-		"editor.selectionBackground": "#ADD6FF80", //40
+		"editor.selectionBackground": "#45499040",
 		"minimap.selectionHighlight": "#7c84ec",
 
 		"editorLineNumber.foreground": "#696969",
@@ -54,7 +54,7 @@
 
 		"editor.foldBackground": "#7c84ec80", // Quando o código é escondido/agrupado por função
 
-		"editorLink.activeForeground": "#0000FF",
+		"editorLink.activeForeground": "#0597dd",
 		"peekViewTitle.background": "#7c84ec",
 		"peekView.border": "#7c84ec",
 		"peekViewResult.lineForeground": "#696969", // #696969
