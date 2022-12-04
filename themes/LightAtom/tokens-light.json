@@ -28,13 +28,13 @@
 		"titleBar.activeBackground": "#454990",
 		"titleBar.inactiveBackground": "#454990",
 		"selection.background": "#ADD6FF40",
-		
+			
 		"editor.background": "#FFF", // #e0e0e0
 		"editorGroup.border": "#f0f0f0",
 		"editorCursor.foreground": "#000",
 		"editor.foreground": "#000",
 		"editorWhitespace.foreground": "#454990",
-		"editor.selectionBackground": "#ADD6FF80", //40
+		"editor.selectionBackground": "#45499040",
 		"minimap.selectionHighlight": "#7c84ec",
 
 		"editorLineNumber.foreground": "#696969",
